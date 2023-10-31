@@ -153,11 +153,11 @@ $db = new Database(DATA_DIRECTORY);
 
 $data = [
     "id" => 3323,
-    "first_name" => "Chanchal",
-    "last_name" => "Biswas",
+    "first_name" => "Dj",
+    "last_name" => "Saha",
     "gender" => "Male",
     "date_of_birth" => "2021-01-01",
-    "email" => "mchanchalbd@gamil.com",
+    "email" => "djsaha@gamil.com",
     "password" => "12345"
 ];
 
@@ -179,7 +179,7 @@ __Example__
 $db = new Database(DATA_DIRECTORY);
 
 $data = [
-    "first_name" => "Md. Chanchal",
+    "first_name" => "dj saha",
     "password" => "12345678"
 ];
 
